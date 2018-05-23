@@ -26,7 +26,6 @@ Complete [today's Kata](https://www.codewars.com/kata/highest-scoring-word) and 
 
 ```
 export PORT=3000
-export CLIENT_URL=http://localhost:8080
 Mac:     export DATABASE_URL=postgres://localhost:5432/books_app
 Windows: export DATABASE_URL=postgres://USER:PASSWORD@localhost:5432/books_app
 ```
